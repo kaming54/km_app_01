@@ -11,6 +11,7 @@
     <string name="main_menu_shop">商店</string>
     <string name="main_menu_shopcar">購物車</string>
     <string name="main_menu_set">設置</string>
+    <string name="logout">登出</string>
 
     <string-array name="home_menu_name">
         <item>日本</item>
