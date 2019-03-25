@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Kmshop_0315</string>
+    <string name="login">登錄</string>
+    <string name="login_name">用戶帳號</string>
+    <string name="login_password">密碼</string>
+    <string name="forgetPassword">忘記密碼</string>
+    <string name="resgin">申請帳號</string>
+    <string name="funtion_search">搜尋商品名稱/國家</string>
+    <string name="qrcode">掃一掃</string>
+    <string name="main_menu_home">首頁</string>
+    <string name="main_menu_shop">商店</string>
+    <string name="main_menu_shopcar">購物車</string>
+    <string name="main_menu_set">設置</string>
+
+    <string-array name="home_menu_name">
+        <item>日本</item>
+        <item>韓國</item>
+        <item>泰國</item>
+        <item>台灣</item>
+        <item>中國</item>
+        <item>香港</item>
+        <item>美國</item>
+        <item>英國</item>
+    </string-array>
+</resources>
